@@ -24,4 +24,4 @@ class System {
   std::vector<Process> processes_ = {};
 };
 
-#endif
+#endif /* SYSTEM_H */

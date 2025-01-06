@@ -13,4 +13,4 @@ void DisplayProcesses(std::vector<Process>& processes, WINDOW* window, int n);
 std::string ProgressBar(float percent);
 };  // namespace NCursesDisplay
 
-#endif
+#endif /* NCURSES_DISPLAY_H */
